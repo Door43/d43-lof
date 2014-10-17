@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lof:home|Door43 (lof)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lof|d43-lof repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lof/archive/master.zip|d43-lof.zip]]
+
+**Recent Changes**
+{{changes>ns = lof}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lof|Ethnologue data]]
+
